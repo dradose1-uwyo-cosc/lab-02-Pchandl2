@@ -1,9 +1,9 @@
 # Peyton Chandler
 # UWYO COSC 1010
-# Submission Date
+# 9/17/24
 # Lab 02 
-# Lab Section: 
-# Sources, people worked with, help given to: 
+# Lab Section: 11 
+# Sources, people worked with, help given to: N/A 
 # your
 # comments
 # here
